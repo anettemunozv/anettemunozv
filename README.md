@@ -13,4 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I like to read. 
--->
+--> Anette Munoz-Ventura
+My Github account has my pronouns and a fun fact about me. 
+My repository is an introduction of myself. 
+On the Github application I clicked on "File" and then clicked on "Clone repository."  
