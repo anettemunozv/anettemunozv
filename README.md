@@ -1,4 +1,4 @@
-## Hi there my name is Anette 👋
+## Hi there my name is Anette👋
 
 <!--
 **anettemunozv/anettemunozv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
